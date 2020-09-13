@@ -32,20 +32,6 @@ if __name__ == '__main__':
 
 
 
-                # login_url = 'https://ds.xxxxx.com/sys/sysUser/login'
-                # press_url = 'https://ds.xxxxx.com/weshop/order/checkout'
-                # phone = "1376193000"
-                # password = "123456"
-                #
-                # THREAD_NUM = 1  # 并发线程总数
-                # ONE_WORKER_NUM = 5  # 每个线程的循环次数
-                # LOOP_SLEEP = 0.1  # 每次请求时间间隔(秒)
-                # ERROR_NUM = 0  # 出错数
-                #
-                # obj = Presstest(login_url=login_url, press_url=press_url, phone=phone, password=password)
-                # obj.login()
-                # obj.run()
-
 
 
 
