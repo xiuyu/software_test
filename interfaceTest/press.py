@@ -1,6 +1,6 @@
 import requests,time,threading,json
 
-THREAD_NUM = 100  # 并发线程总数
+THREAD_NUM = 10  # 并发线程总数
 ONE_WORKER_NUM = 100  # 每个线程的循环次数
 LOOP_SLEEP = 0  # 每次请求时间间隔(秒)
 ERROR_NUM = 0  # 出错数

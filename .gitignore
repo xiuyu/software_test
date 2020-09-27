@@ -3,3 +3,5 @@ interfaceTest/.idea
 interfaceTest/__pycache__
 appAuto/venv
 appAuto/.idea
+unittest/venv
+unittest/.idea
